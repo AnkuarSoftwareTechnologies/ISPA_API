@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPA_API", "ISPA_API\ISPA_API.csproj", "{30266E44-D641-4BB2-A349-81F245D25786}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30266E44-D641-4BB2-A349-81F245D25786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30266E44-D641-4BB2-A349-81F245D25786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30266E44-D641-4BB2-A349-81F245D25786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30266E44-D641-4BB2-A349-81F245D25786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6F24FCE-17B8-46DA-B28A-03BBCE8265D8}
+	EndGlobalSection
+EndGlobal
